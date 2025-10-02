@@ -10,7 +10,21 @@ Deep Learning School регулярно проводит потоки обуче
 - Часть 2. Natural Language Processing (NLP) [info](https://dls.samcs.ru/part2)
 - Часть 3. Курс. Speech Processing [info](https://dls.samcs.ru/speech)
 
-Новые потоки анонсируются в Telegram канале [@deep_learning_school_news](https://t.me/deep_learning_school_news) 
+Новые потоки анонсируются в Telegram канале [@deep_learning_school_news](https://t.me/deep_learning_school_news)
+
+## Open Data Science
+
+Сообщество Open DataScience периодически проводит потоки обучения по различным дисциплинам.
+
+Далее представлены ссылки на прошедшие потоки. Материалы прошедших потоков доступны к ознакомлению:
+
+- Natural Language Processing, 2025 [info](https://ods.ai/tracks/nlp-course-autumn-2025)
+- Классические модели ML, 2025 [info](https://ods.ai/tracks/classic-models-autumn25)
+- Deep Reinforcement Learning, 2024 [info](https://ods.ai/tracks/drlcourse24)
+- AutoML in practice, 2024 [info](https://ods.ai/tracks/automlinpractice24)
+- Геопространственный анализ данных [info](https://ods.ai/tracks/geoanalytics-course-spring24)
+
+Новые потоки анонсируются в Telegram канале [@datafest](https://t.me/datafest)
 
 ## Константин Воронцов
 
