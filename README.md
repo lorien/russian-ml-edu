@@ -22,7 +22,9 @@ Deep Learning School регулярно проводит потоки обуче
 - Классические модели ML, 2025 [info](https://ods.ai/tracks/classic-models-autumn25)
 - Deep Reinforcement Learning, 2024 [info](https://ods.ai/tracks/drlcourse24)
 - AutoML in practice, 2024 [info](https://ods.ai/tracks/automlinpractice24)
-- Геопространственный анализ данных [info](https://ods.ai/tracks/geoanalytics-course-spring24)
+- Геопространственный анализ данных, 2024 [info](https://ods.ai/tracks/geoanalytics-course-spring24)
+- Деревья и их ансамбли, 2023 [info](https://ods.ai/tracks/trees-autumn23)
+- Дизайн систем машинного обучения, 2023 [info](https://ods.ai/tracks/ml-system-design-23)
 
 Новые потоки анонсируются в Telegram канале [@datafest](https://t.me/datafest)
 
