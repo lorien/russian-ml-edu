@@ -70,3 +70,7 @@ Deep Learning School регулярно проводит потоки обуче
 "Основы байесовского вывода", 2025
 , [info](https://www.sergeynikolenko.ru/en/courses/spsu2025-bayes)
 , [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHGC6XN2t-1ae-seU166k74U)
+
+## Емелин Александр
+
+Теория основ высшей математики и разбор задач [mathprofi.ru](https://mathprofi.ru/lekcii_po_vysshei_matematike.html)
