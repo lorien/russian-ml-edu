@@ -27,3 +27,11 @@ C.Николенко, "Машинное обучение", 2018
 
 С. Николенко, "Глубокое обучение", 2024
 , [home](https://www.sergeynikolenko.ru/en/courses/mlspsu2023-3)
+
+C. Николенко, "Основые байесовского вывода", 2024
+, [home](https://www.sergeynikolenko.ru/en/courses/mlspsu2024)
+, [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHEIHjSp0DQ79-scZRH1-QNj)
+
+С. Николенко, "Графические вероятностные модели", 2025
+, [home](https://www.sergeynikolenko.ru/en/courses/mlspsu2024-2)
+, [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHHqjirDmIlLb_ynmLXzcXYj)
