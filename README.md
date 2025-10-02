@@ -4,11 +4,11 @@
 
 ## Deep Learning School
 
-Deep Learning School регулярно проводит потоки обучения по трём дисциплинам:
+Deep Learning School регулярно проводит потоки обучения по трём дисциплинам. Материалы прошедших потоков доступны к ознакомлению:
 
-- Часть 1. Intro to ML and DL. Computer Vision [info](https://dls.samcs.ru/part1)
-- Часть 2. Natural Language Processing (NLP) [info](https://dls.samcs.ru/part2)
-- Часть 3. Курс. Speech Processing [info](https://dls.samcs.ru/speech)
+- Часть 1. Intro to ML and DL. Computer Vision, 2025 [info](https://stepik.org/course/230362/promo), [youtube-list](https://www.youtube.com/playlist?list=PL0Ks75aof3TiHbkJ95vxNlQefujrj1N2w)
+- Часть 2. Natural Language Processing (NLP) [info](https://stepik.org/course/230363/promo), [youtube-list](https://www.youtube.com/watch?v=EOgwODW67PE&list=PL0Ks75aof3ThuLLtLIVl_KPUDDQlTDyJI)
+- Часть 3. Курс. Speech Processing [info](https://stepik.org/course/251868/info), [youtube-list](https://www.youtube.com/playlist?list=PL0Ks75aof3TgnQ_q1AmIClOeX6c-F_Kw0)
 
 Новые потоки анонсируются в Telegram канале [@deep_learning_school_news](https://t.me/deep_learning_school_news)
 
@@ -16,7 +16,7 @@ Deep Learning School регулярно проводит потоки обуче
 
 Сообщество Open DataScience периодически проводит потоки обучения по различным дисциплинам.
 
-Далее представлены ссылки на прошедшие потоки. Материалы прошедших потоков доступны к ознакомлению:
+Материалы прошедших потоков доступны к ознакомлению:
 
 - Natural Language Processing, 2025 [info](https://ods.ai/tracks/nlp-course-autumn-2025)
 - Классические модели ML, 2025 [info](https://ods.ai/tracks/classic-models-autumn25)
