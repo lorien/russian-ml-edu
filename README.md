@@ -36,41 +36,41 @@ Deep Learning School регулярно проводит потоки обуче
 
 ## Сергей Николенко
 
-"Основы байесовского вывода", 2017
-, [info](https://www.lektorium.tv/lecture/30977)
-, [youtube-list](https://www.youtube.com/playlist?list=PL-_cKNuVAYAU0vPERG07V2B_fykSxiL7z)
-
-"Машинное обучение", 2018
-, [info](https://www.lektorium.tv/node/32187)
-, [youtube-list](https://www.youtube.com/playlist?list=PL-_cKNuVAYAWXoVzVEDCT-usTEBHUf4AF)
-
-"Основы байесовского вывода", 2023
-, [info](https://www.sergeynikolenko.ru/en/courses/mlspsu2023-1)
-, [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHEg_KSXzUo6tGcrloire0lY)
-
-"Графические вероятностные модели", 2024
-, [info](https://www.sergeynikolenko.ru/en/courses/mlspsu2023-2)
-, [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHHQxuDucbsPJ1CrTaM9ZeCZ)
-
-"Глубокое обучение", 2024
-, [info](https://www.sergeynikolenko.ru/en/courses/mlspsu2023-3)
-
-"Основы байесовского вывода", 2024
-, [info](https://www.sergeynikolenko.ru/en/courses/mlspsu2024)
-, [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHEIHjSp0DQ79-scZRH1-QNj)
-
-"Графические вероятностные модели", 2025
-, [info](https://www.sergeynikolenko.ru/en/courses/mlspsu2024-2)
-, [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHHqjirDmIlLb_ynmLXzcXYj)
-
-"Глубокое обучение", 2025
-, [info](https://www.sergeynikolenko.ru/en/courses/mlspsu2024-3)
-, [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHF36Mn6e9V2lxY-y_KW6k_P)
-
-"Основы байесовского вывода", 2025
-, [info](https://www.sergeynikolenko.ru/en/courses/spsu2025-bayes)
-, [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHGC6XN2t-1ae-seU166k74U)
+Курсы: 
+- "Основы байесовского вывода", 2017
+  , [info](https://www.lektorium.tv/lecture/30977)
+  , [youtube-list](https://www.youtube.com/playlist?list=PL-_cKNuVAYAU0vPERG07V2B_fykSxiL7z)
+- "Машинное обучение", 2018
+  , [info](https://www.lektorium.tv/node/32187)
+  , [youtube-list](https://www.youtube.com/playlist?list=PL-_cKNuVAYAWXoVzVEDCT-usTEBHUf4AF)
+- "Основы байесовского вывода", 2023
+  , [info](https://www.sergeynikolenko.ru/en/courses/mlspsu2023-1)
+  , [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHEg_KSXzUo6tGcrloire0lY)
+- "Графические вероятностные модели", 2024
+  , [info](https://www.sergeynikolenko.ru/en/courses/mlspsu2023-2)
+  , [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHHQxuDucbsPJ1CrTaM9ZeCZ)
+- "Глубокое обучение", 2024
+  , [info](https://www.sergeynikolenko.ru/en/courses/mlspsu2023-3)
+- "Основы байесовского вывода", 2024
+  , [info](https://www.sergeynikolenko.ru/en/courses/mlspsu2024)
+  , [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHEIHjSp0DQ79-scZRH1-QNj)
+- "Графические вероятностные модели", 2025
+  , [info](https://www.sergeynikolenko.ru/en/courses/mlspsu2024-2)
+  , [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHHqjirDmIlLb_ynmLXzcXYj)
+- "Глубокое обучение", 2025
+  , [info](https://www.sergeynikolenko.ru/en/courses/mlspsu2024-3)
+  , [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHF36Mn6e9V2lxY-y_KW6k_P)
+- "Основы байесовского вывода", 2025
+  , [info](https://www.sergeynikolenko.ru/en/courses/spsu2025-bayes)
+ , [youtube-list](https://www.youtube.com/playlist?list=PLwdBkWbW0oHGC6XN2t-1ae-seU166k74U)
 
 ## Емелин Александр
 
-Теория основ высшей математики и разбор задач [mathprofi.ru](https://mathprofi.ru/lekcii_po_vysshei_matematike.html)
+"Теория основ высшей математики и разбор задач", [в текстовом виде](https://mathprofi.ru/lekcii_po_vysshei_matematike.html)
+
+## Сергей Балакирев
+
+Курсы:
+- "Машинное обучение", [stepik](https://stepik.org/course/209247/info), [в текстовом виде](https://proproprogs.ru/ml)
+- "Нейросети на PyTorch", [в текстовом виде](https://proproprogs.ru/nn_pytorch)
+- "Нейронные сети", [в текстовом виде](https://proproprogs.ru/neural_network)
