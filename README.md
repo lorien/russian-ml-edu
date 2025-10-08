@@ -74,3 +74,8 @@ Deep Learning School регулярно проводит потоки обуче
 - "Машинное обучение", [stepik](https://stepik.org/course/209247/info), [в текстовом виде](https://proproprogs.ru/ml)
 - "Нейросети на PyTorch", [в текстовом виде](https://proproprogs.ru/nn_pytorch)
 - "Нейронные сети", [в текстовом виде](https://proproprogs.ru/neural_network)
+
+## Яндекс.Образование
+
+- "Учебник по машинному обучению", [в текстовом виде](https://education.yandex.ru/handbook/ml)
+- "Математика для анализа данных", [в текстовом виде](https://education.yandex.ru/handbook/math)
